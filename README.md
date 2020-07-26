@@ -1,4 +1,4 @@
-### Hi there, I´m Anartz Mugika Ledo 👋
+### Hola a tod@s,soy Anartz Mugika Ledo 👋
 
 <!--
 **mugan86/mugan86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Podéis encontrarme en los siguientes enlaces cuyo contenido será prácticamente relacionado al mundo IT y al desarrollo, mediante cursos, artículos, recursos,...
+* Medium: https://medium.com/@mugan86
+* Twitter: https://twitter.com/mugan86
+* Udemy: https://www.udemy.com/user/anartzmugika/
+
+
+- 🔭 Actualmente trabajando creando nuevo contenido
+
+
+
