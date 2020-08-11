@@ -23,5 +23,15 @@ Podéis encontrarme en los siguientes enlaces cuyo contenido será prácticament
 
 - 🔭 Actualmente trabajando creando nuevo contenido
 
+Cursos Premium al mejor precio aquí:
+
+* GraphQL con Angular desde 0: https://cursos.anartz-mugika.com/graphql-de-0-a-deploy
+* NPM. Desarrollo y publicación de librerías en NPM con JS, Typescript, Angular y ReactJS: https://cursos.anartz-mugika.com/librerias-js-ts-angular-npm
+
+Clase sobre GraphQL, con la explicación básica de las actualizaciones en tiempo real, canal [Domini Code](https://www.youtube.com/channel/UC3QuZuJr2_EOUak8bWUd74A):
+[![Introducción a GraphQL - Control de inventario en GraphQL - Node con Anartz Mugika Ledo
+](https://img.youtube.com/vi/jjCmNzonQVA/0.jpg)](https://www.youtube.com/watch?v=jjCmNzonQVA "Introducción a GraphQL - Control de inventario en GraphQL - Node con Anartz Mugika Ledo
+")
+
 
 
