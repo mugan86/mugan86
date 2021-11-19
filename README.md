@@ -23,7 +23,7 @@ Podéis encontrarme en los siguientes enlaces cuyo contenido será prácticament
 * Medium: https://medium.com/@mugan86
 * Twitter: https://twitter.com/mugan86
 * Udemy: https://www.udemy.com/user/anartzmugika/
-* Youtube: https://www.youtube.com/mugan86 (VIDEO TODAS LAS SEMANAS!!)
+* Youtube: https://www.youtube.com/mugan86 (¡¡VIDEOS DE CALIDAD CON REGULARIDAD!!)
 
 - 🔭 Actualmente estoy trabajando en el "Bootcamp de Python desde 0" y contenido para Youtube y Medium.
 - 🌱 Actualmente me estoy formando en temas como el desarrollo de videojuegos con Unity, Python,...
@@ -46,11 +46,30 @@ Cursos Premium al mejor precio aquí:
 * GraphQL con Angular desde 0: https://cursos.anartz-mugika.com/graphql-de-0-a-deploy
 * NPM. Desarrollo y publicación de librerías en NPM con JS, Typescript, Angular y ReactJS: https://cursos.anartz-mugika.com/librerias-js-ts-angular-npm
 
+## Talleres GRATIS
+
 Clase sobre GraphQL, con la explicación básica de las actualizaciones en tiempo real, canal [Domini Code](https://www.youtube.com/channel/UC3QuZuJr2_EOUak8bWUd74A):
 * [Introducción a GraphQL - Control de inventario en GraphQL - Node con Anartz Mugika Ledo
 ](https://www.youtube.com/watch?v=jjCmNzonQVA )
 * Código del resultado:
 https://github.com/graphql-course/domini-code-live-graphql
+
+Curso para trabajar con Mapas Interactivos con la libería Leaflet (Similar a Google Maps) con Typescript (+4h30min)
+* [27 videos, desde 0 hasta trabajar un proyecto final consumiendo desde una API sencilla
+](https://www.youtube.com/playlist?list=PLaaTcPGicjqgLAUhR_grKBGCXbyKaP7qR)
+
+API GraphQL - Optimizar Proyecto con ESLINT y modularización de schema y resolvers
+* [Lista con 11 videos, en los que aplico un ejemplo inicial, con una parte práctica aplicando en otro ejemplo](https://www.youtube.com/watch?v=xqUvq05CcGs&list=PLaaTcPGicjqjZSVRfn9p4996r_m-KWMlT)
+
+Tutoriales Angular
+* [Crear librerías en Angular, trabajar con schematics personalizados,...](https://www.youtube.com/watch?v=3zOycGi0y_I&list=PLaaTcPGicjqj4AfpbgIZMefZyGcFEEGBa)
+* [Crear librería para crear un descontador elegante](https://mugan86.medium.com/angular-crear-componente-countdown-en-unos-sencillos-pasos-8ee09bfb914e)
+
+Web Scrapping con Node y Typescript
+* [Obtenemos las información de las banderas de los países del mundo para usarlo como base para un juego tipo Quiz](https://youtu.be/8AdaeduTwUo)
+
+Tarjeta profesional con código QR - NodeJS / html-pdf / qrcode
+* [Artículo detallado y paso a paso](https://mugan86.medium.com/tarjeta-profesional-con-c%C3%B3digo-qr-7f7b7c93bbc)
 
 
 
