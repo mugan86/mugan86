@@ -55,7 +55,7 @@ Clase sobre GraphQL, con la explicación básica de las actualizaciones en tiemp
 https://github.com/graphql-course/domini-code-live-graphql
 
 Curso para trabajar con Mapas Interactivos con la libería Leaflet (Similar a Google Maps) con Typescript (+4h30min)
-* [27 videos, desde 0 hasta trabajar un proyecto final consumiendo desde una API sencilla
+* [64 videos, desde 0 curso completo para aprender lo ensencial
 ](https://www.youtube.com/playlist?list=PLaaTcPGicjqgLAUhR_grKBGCXbyKaP7qR)
 
 API GraphQL - Optimizar Proyecto con ESLINT y modularización de schema y resolvers
